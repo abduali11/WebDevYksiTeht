@@ -5,4 +5,4 @@ Suoritetut vaatimukset
 - käyttäjä voi valita haluaako nähdä päivän tai viikon ruokalistan.
 - Kun ravintolan nimeä on painettu, se vie sut kartalla ravintolan kohtaan
 - Hyvät Git-käytänteet
-  - Toimiva linkki sivustoon https://users.metropolia.fi/~abdulali/WebDevYksiTeht/
+- Linkki sivustoon https://users.metropolia.fi/~abdulali/WebDevYksiTeht/
